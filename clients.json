@@ -2,12 +2,12 @@
   "726618db-7a97-4ffa-8ccd-370a33d79bc7": [
     {
       "name": "QA Tester",
-      "id": "e4f92d13-dbef-4357-ad95-d322a724a41c",
+      "id": "29fde8ed-ea04-4664-9084-89cc46db0920",
       "serverUrl": "http://200.85.243.46:8001/sygparkapi/graphql/"
     },
     {
       "name": "DESARROLLO",
-      "id": "e4f92d13-dbef-4357-ad95-d322a724a41c",
+      "id": "97d2c9ca-0f46-4112-a28a-a3e13d446ac6",
       "serverUrl": "http://200.85.243.46:8001/sygparkapi/graphql/"
     },
     {
