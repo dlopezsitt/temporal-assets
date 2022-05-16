@@ -3,12 +3,12 @@
     {
       "name": "QA Tester",
       "id": "29fde8ed-ea04-4664-9084-89cc46db0920",
-      "serverUrl": "http://200.85.243.46:8001/sygparkapi/graphql/"
+      "serverUrl": "https://15d2-186-86-33-177.ngrok.io/sygparkapi/graphql/"
     },
     {
       "name": "DESARROLLO",
       "id": "97d2c9ca-0f46-4112-a28a-a3e13d446ac6",
-      "serverUrl": "http://200.85.243.46:8001/sygparkapi/graphql/"
+      "serverUrl": "https://15d2-186-86-33-177.ngrok.io/sygparkapi/graphql/"
     },
     {
       "name": "LOCAL DEV",
